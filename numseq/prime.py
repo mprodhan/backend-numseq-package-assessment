@@ -25,11 +25,4 @@ def is_prime(m):
                 n += 1
             else: 
                 return True
-    # if x == 2 or x == 3:
-    #     return True
-    # if x % 2 == 0 or x < 2:
-    #     return False
-    # for i in range(3, int(pow(x, 0.5) + 1, 2)):
-    #     if x % i == 0:
-    #         return False
-    # return True
+    
