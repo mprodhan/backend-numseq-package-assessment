@@ -1,5 +1,3 @@
-from functools import lru_cache
-
 def fib(n):
     """Returns the nth fibonnaci number"""
     fib_cache = {}

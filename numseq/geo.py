@@ -3,7 +3,7 @@ Return the values of tthe square, triangle and cube functions.
 """
 def square(n):
     """ Return the values of the square of the value."""
-    return n**2
+    return pow(n, 2)
 
 def triangle(n):
     """ Return the values of the triangle by declarng the nth value."""
@@ -11,4 +11,4 @@ def triangle(n):
 
 def cube(n):
     """Return the values of the cube of the value."""
-    return n**3
+    return pow(n, 3)

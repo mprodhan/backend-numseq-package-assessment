@@ -5,9 +5,7 @@ import unittest
 import timeit
 import importlib
 import types
-# import fib
-# import geo
-# import prime
+import numseq
 
 numseq_root = 'numseq'  # change this to 'soln.numseq' to debug solution
 
