@@ -29,7 +29,7 @@ The directory name is the name of the package used in an import statement (`impo
 > -- <cite>python docs</cite>
 
 ### `fib`
-Within the numseq package, create a module named `fib.py`. Within the fib module, define a function `fib(n)` that returns the nth Fibonacci number.  The first 10 terms of the Fibonacci sequence are 
+Within the numseq package, create a module named `fib.py`. Within the fib module, define a function `fib(n)` that returns the nth Fibonacci number.  The first 10 terms of the Fibonacci sequence are
 `[0, 1, 1, 2, 3, 5, 8, 13, 21, 34 ...]`
 
 ### `geo`
